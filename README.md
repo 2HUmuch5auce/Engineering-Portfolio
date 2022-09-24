@@ -13,7 +13,7 @@ Thank you for your time!
 
 If you would like to see my portfolio, please click the file titled, "Portfolio_Andrew_Zhu.pdf"
 
-If you would like to see my project demonstrations, please click the file titled, "Projects_Andrew_Zhu.pdf"
+If you would like to see my project demonstrations, please click the file titled, "Projects_Andrew_Zhu.md"
 
 If you would like to see my resume, please click the file titled, "Resume_Andrew_Zhu.pdf"
 
