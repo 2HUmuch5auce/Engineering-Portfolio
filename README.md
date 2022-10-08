@@ -15,6 +15,14 @@ I have been fortunate to have been able to work on many projects both inside and
 
 Thank you for your time!
 
+### About Me
+
+I have always been the curious type and have always been the kinetic learning type. My understanding of things comes visually and physically so I often like to draw things out and construct tangible models. Naturally, projects have always been the best learning medium for me to absorb, apply, and express what I have learned. I work the best when there is a clear goal and feasible timeline, and I enjoy working on teams that share a similar work ethic but offer different perspectives. At my essence, I am a hard worker and a critical thinker.
+
+In my down time, I enjoy electric longboarding around the Bay Area, playing soccer on the Berkeley campus fields, and creating small 3D solutions with my Ender 3 v2. I also enjoy digital photography and like to shoot still life and street with my Nikon D3300 DSLR. If you are curious, check out my newly created photography handle on Instagram: @zhumuchsauce.
+
+### Navigating My GitHub Porfolio
+
 If you would like to see my portfolio, please click the file titled, "Portfolio_Andrew_Zhu.pdf"
 
 If you would like to see my project demonstrations, please click the file titled, "Projects_Andrew_Zhu.md"
@@ -23,12 +31,6 @@ If you would like to see my resume, please click the file titled, "Resume_Andrew
 
 *NOTE: To view links in the PDFs, the files must be downloaded. An updated website portfolio is under construction to resolve this issue. Sorry for the inconvenience!*
 
-
-### About Me
-
-I have always been the curious type and have always been the kinetic learning type. My understanding of things comes visually and physically so I often like to draw things out and construct tangible models. Naturally, projects have always been the best learning medium for me to absorb, apply, and express what I have learned. I work the best when there is a clear goal and feasible timeline, and I enjoy working on teams that share a similar work ethic but offer different perspectives. At my essence, I am a hard worker and a critical thinker.
-
-In my down time, I enjoy electric longboarding around the Bay Area, playing soccer on the Berkeley campus fields, and creating small 3D solutions with my Ender 3 v2. I also enjoy digital photography and like to shoot still life and street with my Nikon D3300 DSLR. If you are curious, check out my newly created photography handle on Instagram: @zhumuchsauce.
 
 
 
