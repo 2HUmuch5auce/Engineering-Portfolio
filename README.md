@@ -9,7 +9,7 @@ My email is andrewezhu@berkeley.edu.
 
 ### Introduction
 
-Howdy! My name is *Andrew*, and I am a current *junior* studying in *Mechanical Engineering* at the *University of California, Berkeley*. You are currently viewing my engineering portfolio. Here, I have tried to not only detail my technical knowledge and understanding, but also my engineering mindset and thought process. 
+Howdy! My name is Andrew, and I am a current junior studying in *Mechanical Engineering* at the *University of California, Berkeley*. You are currently viewing my engineering portfolio. Here, I have tried to not only detail my technical knowledge and understanding, but also my engineering mindset and thought process. 
 
 I have been fortunate to have been able to work on many projects both inside and outside the classroom here at Berkeley, and I wish to share them with you. It is with my hope that they will help in your assessments!
 
