@@ -23,11 +23,11 @@ In my down time, I enjoy electric longboarding around the Bay Area, playing socc
 
 ### Navigating My GitHub Porfolio
 
-If you would like to see my portfolio, please click the file titled, "Portfolio_Andrew_Zhu.pdf"
+If you would like to see my **portfolio**, please click the file titled, **"Portfolio_Andrew_Zhu.pdf"**
 
-If you would like to see my project demonstrations, please click the file titled, "Projects_Andrew_Zhu.md"
+If you would like to see my **project demonstrations**, please click the file titled, **"Projects_Andrew_Zhu.md"**
 
-If you would like to see my resume, please click the file titled, "Resume_Andrew_Zhu.pdf"
+If you would like to see my **resume**, please click the file titled, **"Resume_Andrew_Zhu.pdf"**
 
 *NOTE: To view links in the PDFs, the files must be downloaded. An updated website portfolio is under construction to resolve this issue. Sorry for the inconvenience!*
 
