@@ -3,6 +3,8 @@
 
 My LinkedIn profile can be found [here](https://www.linkedin.com/in/andzhurew/).
 
+My email is andrewezhu@berkeley.edu.
+
 ## WELCOME
 
 ### Introduction
