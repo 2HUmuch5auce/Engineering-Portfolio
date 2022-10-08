@@ -28,4 +28,6 @@ If you would like to see my project demonstrations, please click the file titled
 
 If you would like to see my resume, please click the file titled, "Resume_Andrew_Zhu.pdf"
 
+*To view links in the PDFs, the files must be downloaded. An updated website portfolio is under construction. Sorry for the inconvenience!*
+
 
