@@ -15,7 +15,7 @@ I have been fortunate to have been able to work on many projects both inside and
 
 Thank you for your time!
 
-### About me
+### About Me
 
 I have always been the curious type and have always been the kinetic learning type. My understanding of things comes visually and physically so I often like to draw things out and construct tangible models. Naturally, projects have always been the best learning medium for me to absorb, apply, and express what I have learned. I work the best when there is a clear goal and feasible timeline, and I enjoy working on teams that share a similar work ethic but offer different perspectives. At my essence, I am a hard worker and a critical thinker.
 
@@ -28,6 +28,6 @@ If you would like to see my project demonstrations, please click the file titled
 
 If you would like to see my resume, please click the file titled, "Resume_Andrew_Zhu.pdf"
 
-*To view links in the PDFs, the files must be downloaded. An updated website portfolio is under construction. Sorry for the inconvenience!*
+*NOTE: To view links in the PDFs, the files must be downloaded. An updated website portfolio is under construction to resolve this issue. Sorry for the inconvenience!*
 
 
