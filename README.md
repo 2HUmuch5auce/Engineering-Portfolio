@@ -17,7 +17,7 @@ Thank you for your time!
 
 I have always been the curious type and have always been the kinetic learning type. My understanding of things comes visually and physically so I often like to draw things out and construct tangible models. Naturally, projects have always been the best learning medium for me to absorb, apply, and express what I have learned. I work the best when there is a clear goal and feasible timeline, and I enjoy working on teams that share a similar work ethic but offer different perspectives. At my essence, I am a hard worker and a critical thinker.
 
-In my down time, I enjoy messing with some of the world’s well established tech. For example, I enjoy electric longboarding around the Bay Area. Something about the wind blowing in my face really spikes my adrenaline. On the more tame side, I also enjoy digital photography especially when it involves artificial lighting and a DSLR. If you are curious, check out my newly created photography handle on Instagram: @zhumuchsauce.
+In my down time, I enjoy electric longboarding around the Bay Area, playing soccer on the Berkeley campus fields, and creating small 3D solutions with my Ender 3 v2. I also enjoy digital photography and like to shoot still life and street with my Nikon D3300 DSLR. If you are curious, check out my newly created photography handle on Instagram: @zhumuchsauce.
 
 
 If you would like to see my portfolio, please click the file titled, "Portfolio_Andrew_Zhu.pdf"
